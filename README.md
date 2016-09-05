@@ -6,6 +6,9 @@ Angular directive that interact with the OneDrive Picker API :
 
 **Requirements:** AngularJS 1.4+
 
+# [Demo](https://samarhaider.github.io/angular-onedrive-picker/demo/)
+
+
 # Installation
 
 1. Using Bower (recommended)
