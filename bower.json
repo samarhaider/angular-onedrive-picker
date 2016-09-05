@@ -1,0 +1,31 @@
+{
+  "name": "angular-onedrive-picker",
+  "version": "0.1",
+  "authors": [
+    "Samar Haider <s.samar_haider@yahoo.com> (https://ssamarhaider.wordpress.com/about/)"
+  ],
+  "description": "An AngularJs directive that interact with the OneDrive Picker API",
+  "main": "dist/one-drive-picker.js",
+  "keywords": [
+    "Angular",
+    "OneDrive",
+    "Picker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samarhaider/angular-one-drive-picker.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/samarhaider/angular-one-drive-picker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.5.8"
+  },
+  "moduleType": []
+}
