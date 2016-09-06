@@ -1,9 +1,7 @@
 {
   "name": "angular-onedrive-picker",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "An AngularJs directive that interact with the OneDrive Picker",
-  "author": "Samar Haider <s.samar_haider@yahoo.com> (https://ssamarhaider.wordpress.com/about/)",
-  "devDependencies": {},
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +14,7 @@
     "angular-onedrive",
     "onedrive"
   ],
+  "author": "Samar Haider <s.samar_haider@yahoo.com> (https://ssamarhaider.wordpress.com/about/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/samarhaider/angular-onedrive-picker/issues"
