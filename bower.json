@@ -1,6 +1,6 @@
 {
   "name": "angular-onedrive-picker",
-  "version": "0.1",
+  "version": "0.2",
   "authors": [
     "Samar Haider <s.samar_haider@yahoo.com> (https://ssamarhaider.wordpress.com/about/)"
   ],
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/samarhaider/angular-one-drive-picker.git"
+    "url": "git://github.com/samarhaider/angular-onedrive-picker.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/samarhaider/angular-one-drive-picker",
+  "homepage": "https://github.com/samarhaider/angular-onedrive-picker",
   "ignore": [
     "**/.*",
     "node_modules",

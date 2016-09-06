@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/samarhaider/angular-onedrive-picker.git"
+    "url": "git+https://github.com/samarhaider/angular-onedrive-picker.git"
   },
   "keywords": [
     "angular-onedrive",

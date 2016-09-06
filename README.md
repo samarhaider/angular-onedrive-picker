@@ -14,12 +14,12 @@ Angular directive that interact with the OneDrive Picker API :
 1. Using Bower (recommended)
 
   ```Bash
-  bower install angular-one-drive-picker --save
+  bower install angular-onedrive-picker --save
   ```
     OR 
 
   ```Bash
-  npm install angular-one-drive-picker --save
+  npm install angular-onedrive-picker --save
   ```
 
 2. Manually
